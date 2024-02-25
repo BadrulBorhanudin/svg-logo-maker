@@ -43,14 +43,22 @@ The following image shows a mock-up of the generated SVG given the following inp
 
 This Challenge combines many of the skills covered so far. In addition to the User Story and Acceptance Criteria, I’ve been provided some guidelines to help me get started.
 
-My application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user. The application will be invoked by using the following command:
+My application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests as per the screenshot below:
+
+![Screenshot showing a test is ran.](./Images/test-screenshot.png)
+
+[Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) is used for collecting input from the user. The application will be invoked by using the following command:
 
 ```bash
 node index.js
 ```
 
+A series of questions will be prompted as per the screenshot below:
+
+![Screenshot showing the program is ran.](./Images/run-screenshot.png)
+
 ## Notes
 
-* [Click here for the walkthrough video demonstrating the functionality of the application.]()
+- [Click here for the walkthrough video demonstrating the functionality of the application.]()
 
-* [Click here for the URL of the GitHub repository, with a unique name and a README that describes this project.](https://github.com/BadrulBorhanudin/svg-logo-maker)
+- [Click here for the URL of the GitHub repository, with a unique name and a README that describes this project.](https://github.com/BadrulBorhanudin/svg-logo-maker)
