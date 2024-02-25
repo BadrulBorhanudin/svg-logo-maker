@@ -59,6 +59,6 @@ A series of questions will be prompted as per the screenshot below:
 
 ## Notes
 
-- [Click here for the walkthrough video demonstrating the functionality of the application.]()
+- [Click here for the walkthrough video demonstrating the functionality of the application.](https://drive.google.com/file/d/1Yd7NspmFQ2jmqoYyjzkP19B1Qw93sKQC/view?usp=sharing)
 
 - [Click here for the URL of the GitHub repository, with a unique name and a README that describes this project.](https://github.com/BadrulBorhanudin/svg-logo-maker)
